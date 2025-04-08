@@ -1,5 +1,3 @@
-# arboles-sintanticos
-
 # Compiladores - Taller 3 (Analizador Léxico JavaScript)
 
 ![commits](https://badgen.net/github/commits/mastercelta/lexico-compiladores?icon=github)
@@ -34,19 +32,15 @@ cd arboles-sintanticos
 
 Asegúrate de tener [Node.js](https://nodejs.org/) instalado. Luego, instala las dependencias necesarias ejecutando:
 
-Esta dependencia es opcional para ver la tabla mas bonita, si no tiene la dependencia, imprime una tabla sin formato.
-
 ```bash
 npm install 
 ```
 
 ## Ejecución
 
-### 3. Ejecutar el analizador léxico
+### 3. Ejecutar el analizador sintactico
 
 Asegúrate de tener instalado [Node.js](https://nodejs.org/).
-
-El archivo de entrada (por ejemplo, `codigofuente.js`) debe contener el código fuente que deseas analizar.
 
 ```bash
 node script.js 
